@@ -76,6 +76,7 @@ header nav a {
 
 .secondtexts {
   text-align: center;
+  padding-top: 50px;
 }
 
 /* Third Section Location  */
@@ -93,6 +94,7 @@ header nav a {
   padding-bottom: 15px;
   justify-content: center;
   align-items: center;
+  padding-top: 50px;
 }
 
 .stores-flexcontainer {
@@ -125,4 +127,10 @@ header nav a {
 .contact {
   height: 200px;
   text-align: center;
+}
+
+/* Copyright Section  */
+
+.Copright {
+  margin-left: 10px
 }
