@@ -52,3 +52,26 @@ header nav a {
   width: 100%;
   text-align: center;;
 }
+
+/* Second Section  */
+
+.stockimages {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1000px;
+  margin: auto;
+}
+
+.im {
+  padding: 5px;
+  margin-bottom: ;
+}
+
+.im p {
+  text-align: center;
+}
+
+.secondtexts {
+  text-align: center;
+}
