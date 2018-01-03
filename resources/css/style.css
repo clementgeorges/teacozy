@@ -46,13 +46,20 @@ header nav a {
   height: 700px;
   width: 100%;
   margin-left: 30px;
+
 }
 
 .missioncontent {
   background-color: black;
   margin: auto;
   width: 100%;
-  text-align: center;;
+  text-align: center;
+}
+
+.missioncontent h2,
+H4{
+  padding: 10px;
+  margin: 0px;
 }
 
 /* Second Section  */
@@ -62,16 +69,18 @@ header nav a {
   justify-content: center;
   flex-wrap: wrap;
   width: 1000px;
-  margin: auto;
+  margin: 0px auto 70px;
+
 }
 
-.im {
-  padding: 5px;
-  margin-bottom: ;
+.im{
+  margin: 10px;
 }
 
 .im p {
   text-align: center;
+  margin: 0px;
+  padding: 5px;
 }
 
 .secondtexts {
@@ -91,10 +100,15 @@ header nav a {
 .headlocation {
   display: flex;
   width: 100%;
-  padding-bottom: 15px;
   justify-content: center;
   align-items: center;
-  padding-top: 50px;
+  padding-top: 70px;
+  margin-bottom: 10px
+}
+
+.headlocation h3 {
+  margin: 0px;
+
 }
 
 .stores-flexcontainer {
@@ -129,8 +143,13 @@ header nav a {
   text-align: center;
 }
 
+.contact h2{
+  padding-top: 10px;
+  margin: 0px;
+}
+
 /* Copyright Section  */
 
 .Copright {
-  margin-left: 10px
+  margin-left: 20px
 }
